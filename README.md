@@ -1,4 +1,11 @@
 # weeklyUpdateBangkitCapstoneProject
 
-## 20 MEI - 26 MEI 2024
-### apa ya
+## 20 - 26 MAY 2024
+### Self-taught making backend system for login authentication
+https://github.com/4Ranger/back-end
+
+### Closed meet up with other Cloud Computing cohort to discuss about the use of Google Cloud Platform, storage management, and the making of Entity Relationship Diagram
+https://drive.google.com/file/d/1HAMUkfBjs3b5qVMhJwUXmkTp6Fd1t1Y5/view?usp=sharing
+
+### Notes of The Last Weekly Capstone Team Meet Up
+https://docs.google.com/document/d/1rUCT3-CSGqYHD_Vcy_LeXGJ9Dair5Uu6jHkUe3FDo_o/edit?usp=sharing
