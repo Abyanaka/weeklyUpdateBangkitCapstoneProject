@@ -9,3 +9,11 @@ https://drive.google.com/file/d/1HAMUkfBjs3b5qVMhJwUXmkTp6Fd1t1Y5/view?usp=shari
 
 ### Notes of The Last Weekly Capstone Team Meet Up
 https://docs.google.com/document/d/1rUCT3-CSGqYHD_Vcy_LeXGJ9Dair5Uu6jHkUe3FDo_o/edit?usp=sharing
+
+
+## 27 MAY - 2 JUNE 2024
+### Setting Up Permission for All Team Members in GCP
+https://drive.google.com/file/d/1o9gOcGDoK195Qzwa8zma8yf59_mz6Cfa/view?usp=sharing
+
+### Setting Up Billing Account and Billing Warning for the Capstone Project in GCP
+https://drive.google.com/file/d/13u4mupc6_UxAtoOVVD5i82xEP0hXyFUU/view?usp=sharing
