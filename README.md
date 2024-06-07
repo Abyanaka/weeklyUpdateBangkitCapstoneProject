@@ -24,3 +24,6 @@ https://docs.google.com/document/d/1BDcxrZ4DH8BcTuoFBUB6yAM2zQge3jqFuH7JbIz4Ktk/
 ## ⭐3 JUNE - 9 JUNE 2024
 ### -Trying to integrate the prediction from the model made by the ML team
 https://drive.google.com/file/d/1N6j2N3-UzYap6U91t5kW4kU4Wbm16de7/view
+
+### -Capstone Team Progress Meeting
+https://docs.google.com/document/d/1LVEKeBZbKzwo5qH_hUza1WWsx7Y9y43rtx4AO2sZGAk/edit?usp=sharing
