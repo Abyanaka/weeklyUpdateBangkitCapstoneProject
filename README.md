@@ -21,6 +21,6 @@ https://drive.google.com/file/d/13u4mupc6_UxAtoOVVD5i82xEP0hXyFUU/view?usp=shari
 ### -Capstone Meeting with the Whole Team to Discuss about UI/UX
 https://docs.google.com/document/d/1BDcxrZ4DH8BcTuoFBUB6yAM2zQge3jqFuH7JbIz4Ktk/edit?usp=sharing
 
-## ⭐3 JUNE - 7 JUNE 2024
+## ⭐3 JUNE - 9 JUNE 2024
 ### -Trying to integrate the prediction from the model made by the ML team
 https://drive.google.com/file/d/1N6j2N3-UzYap6U91t5kW4kU4Wbm16de7/view
