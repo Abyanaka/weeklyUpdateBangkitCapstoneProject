@@ -27,3 +27,28 @@ https://drive.google.com/file/d/1N6j2N3-UzYap6U91t5kW4kU4Wbm16de7/view
 
 ### -Capstone Team Progress Meeting
 https://docs.google.com/document/d/1LVEKeBZbKzwo5qH_hUza1WWsx7Y9y43rtx4AO2sZGAk/edit?usp=sharing
+
+## ⭐10 JUNE - 20 JUNE 2024
+### -Try multiple approach to deploy using: Cloud Run, Docker (local), and App Engine
+https://drive.google.com/drive/folders/1SYLSBpEkGBaC-POJjmjO4V7BEn-VS491?usp=sharing
+
+### -Team meeting about progress and discuss about project brief
+https://docs.google.com/document/d/1MU5_RVCNTIA6SAj0-iB_FplaiN5octqCwxafkISn7Ug/edit?usp=sharing
+
+### -Arrange documentation
+https://drive.google.com/file/d/1C3Cgi1SvHf348U9bke9JbyXK1pwBXj9R/view?usp=sharing
+
+### -Make script for project brief video
+https://drive.google.com/file/d/194p7_B1TE6_Wo3iTAl_xA7e_7ejo4Ahd/view?usp=sharing
+
+### -Make architecture design of the application
+https://drive.google.com/file/d/1rn8xJu4h-ka0wVadLGb9-dTmrUe5v2sX/view?usp=sharing
+
+### -Set up dashboard for monitoring on Cloud Monitoring
+https://drive.google.com/file/d/1EPJeUGF8CzQMYe5S7NJaTDACYU-UklPd/view?usp=sharing
+
+### -Set up alert policy
+https://drive.google.com/file/d/1VZsEo_rlSJJ1YCJb8OpbVJuNmvTY7Oum/view?usp=sharing
+
+### -Advisor (additional) meet
+https://drive.google.com/file/d/1DyI7Bak8dvv6r6NDDyejIDzg1uimzefz/view?usp=sharing
